@@ -1,0 +1,1068 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="35" passed="26" failed="9" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-05-18T18:08:00 IST" name="Default suite" finished-at="2025-05-18T18:10:49 IST" duration-ms="168640">
+    <groups>
+    </groups>
+    <test started-at="2025-05-18T18:08:00 IST" name="Default test" finished-at="2025-05-18T18:10:49 IST" duration-ms="168640">
+      <class name="forever.app.TS_004">
+        <test-method is-config="true" signature="browseropen()[pri:0, instance:forever.app.TS_004@3be8821f]" started-at="2025-05-18T18:08:31 IST" name="browseropen" finished-at="2025-05-18T18:08:31 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browseropen -->
+        <test-method is-config="true" signature="beforeTestCase()[pri:0, instance:forever.app.TS_004@3be8821f]" started-at="2025-05-18T18:08:31 IST" name="beforeTestCase" finished-at="2025-05-18T18:08:32 IST" duration-ms="665" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestCase -->
+        <test-method signature="TC_007()[pri:0, instance:forever.app.TS_004@3be8821f]" started-at="2025-05-18T18:08:32 IST" name="TC_007" finished-at="2025-05-18T18:08:33 IST" duration-ms="1029" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_007 -->
+        <test-method is-config="true" signature="afterTestCase()[pri:0, instance:forever.app.TS_004@3be8821f]" started-at="2025-05-18T18:08:33 IST" name="afterTestCase" finished-at="2025-05-18T18:08:33 IST" duration-ms="122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestCase -->
+        <test-method is-config="true" signature="beforeTestCase()[pri:0, instance:forever.app.TS_004@3be8821f]" started-at="2025-05-18T18:08:33 IST" name="beforeTestCase" finished-at="2025-05-18T18:08:34 IST" duration-ms="793" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestCase -->
+        <test-method signature="TC_008()[pri:0, instance:forever.app.TS_004@3be8821f]" started-at="2025-05-18T18:08:34 IST" name="TC_008" finished-at="2025-05-18T18:08:35 IST" duration-ms="1125" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_008 -->
+        <test-method is-config="true" signature="afterTestCase()[pri:0, instance:forever.app.TS_004@3be8821f]" started-at="2025-05-18T18:08:35 IST" name="afterTestCase" finished-at="2025-05-18T18:08:35 IST" duration-ms="133" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestCase -->
+      </class> <!-- forever.app.TS_004 -->
+      <class name="forever.app.TS_20">
+        <test-method is-config="true" signature="browseropen()[pri:0, instance:forever.app.TS_20@420bc288]" started-at="2025-05-18T18:08:00 IST" name="browseropen" finished-at="2025-05-18T18:08:00 IST" duration-ms="78" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browseropen -->
+        <test-method is-config="true" signature="beforeTestCase()[pri:0, instance:forever.app.TS_20@420bc288]" started-at="2025-05-18T18:08:01 IST" name="beforeTestCase" finished-at="2025-05-18T18:08:04 IST" duration-ms="3069" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestCase -->
+        <test-method signature="TC_063()[pri:0, instance:forever.app.TS_20@420bc288]" started-at="2025-05-18T18:08:04 IST" name="TC_063" finished-at="2025-05-18T18:08:07 IST" duration-ms="3535" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_063 -->
+        <test-method is-config="true" signature="afterTestCase()[pri:0, instance:forever.app.TS_20@420bc288]" started-at="2025-05-18T18:08:07 IST" name="afterTestCase" finished-at="2025-05-18T18:08:07 IST" duration-ms="164" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestCase -->
+        <test-method is-config="true" signature="beforeTestCase()[pri:0, instance:forever.app.TS_20@420bc288]" started-at="2025-05-18T18:08:07 IST" name="beforeTestCase" finished-at="2025-05-18T18:08:08 IST" duration-ms="707" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestCase -->
+        <test-method signature="TC_064()[pri:0, instance:forever.app.TS_20@420bc288]" started-at="2025-05-18T18:08:08 IST" name="TC_064" finished-at="2025-05-18T18:08:12 IST" duration-ms="4210" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_064 -->
+        <test-method is-config="true" signature="afterTestCase()[pri:0, instance:forever.app.TS_20@420bc288]" started-at="2025-05-18T18:08:12 IST" name="afterTestCase" finished-at="2025-05-18T18:08:12 IST" duration-ms="241" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestCase -->
+        <test-method is-config="true" signature="beforeTestCase()[pri:0, instance:forever.app.TS_20@420bc288]" started-at="2025-05-18T18:08:12 IST" name="beforeTestCase" finished-at="2025-05-18T18:08:13 IST" duration-ms="736" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestCase -->
+        <test-method signature="TC_065()[pri:0, instance:forever.app.TS_20@420bc288]" started-at="2025-05-18T18:08:13 IST" name="TC_065" finished-at="2025-05-18T18:08:18 IST" duration-ms="4318" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_065 -->
+        <test-method is-config="true" signature="afterTestCase()[pri:0, instance:forever.app.TS_20@420bc288]" started-at="2025-05-18T18:08:18 IST" name="afterTestCase" finished-at="2025-05-18T18:08:18 IST" duration-ms="167" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestCase -->
+        <test-method is-config="true" signature="beforeTestCase()[pri:0, instance:forever.app.TS_20@420bc288]" started-at="2025-05-18T18:08:18 IST" name="beforeTestCase" finished-at="2025-05-18T18:08:18 IST" duration-ms="805" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestCase -->
+        <test-method signature="TC_066()[pri:0, instance:forever.app.TS_20@420bc288]" started-at="2025-05-18T18:08:18 IST" name="TC_066" finished-at="2025-05-18T18:08:31 IST" duration-ms="12305" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"css selector","selector":".error-message"}
+  (Session info: chrome=136.0.7103.113)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [29cd55a3ce11c8a0f4c62736aaf27b55, findElement {using=css selector, value=.error-message}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.113, chrome: {chromedriverVersion: 135.0.7049.84 (6c019e560019..., userDataDir: C:\Users\jagaf\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58418}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58418/devtoo..., se:cdpVersion: 136.0.7103.113, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 29cd55a3ce11c8a0f4c62736aaf27b55]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":".error-message"}
+  (Session info: chrome=136.0.7103.113)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [29cd55a3ce11c8a0f4c62736aaf27b55, findElement {using=css selector, value=.error-message}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.113, chrome: {chromedriverVersion: 135.0.7049.84 (6c019e560019..., userDataDir: C:\Users\jagaf\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58418}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58418/devtoo..., se:cdpVersion: 136.0.7103.113, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 29cd55a3ce11c8a0f4c62736aaf27b55
+at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:501)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:485)
+at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:349)
+at forever.app.TS_20.TC_066(TS_20.java:145)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+at org.testng.TestRunner.privateRun(TestRunner.java:741)
+at org.testng.TestRunner.run(TestRunner.java:616)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_066 -->
+        <test-method is-config="true" signature="afterTestCase()[pri:0, instance:forever.app.TS_20@420bc288]" started-at="2025-05-18T18:08:31 IST" name="afterTestCase" finished-at="2025-05-18T18:08:31 IST" duration-ms="193" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestCase -->
+      </class> <!-- forever.app.TS_20 -->
+      <class name="forever.app.TS_10">
+        <test-method is-config="true" signature="browseropen()[pri:0, instance:forever.app.TS_10@64b31700]" started-at="2025-05-18T18:08:35 IST" name="browseropen" finished-at="2025-05-18T18:08:35 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browseropen -->
+        <test-method is-config="true" signature="beforeTestCase()[pri:0, instance:forever.app.TS_10@64b31700]" started-at="2025-05-18T18:08:35 IST" name="beforeTestCase" finished-at="2025-05-18T18:08:36 IST" duration-ms="815" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestCase -->
+        <test-method signature="TC_019()[pri:0, instance:forever.app.TS_10@64b31700]" started-at="2025-05-18T18:08:36 IST" name="TC_019" finished-at="2025-05-18T18:08:37 IST" duration-ms="1041" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_019 -->
+        <test-method is-config="true" signature="afterTestCase()[pri:0, instance:forever.app.TS_10@64b31700]" started-at="2025-05-18T18:08:37 IST" name="afterTestCase" finished-at="2025-05-18T18:08:37 IST" duration-ms="147" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestCase -->
+        <test-method is-config="true" signature="beforeTestCase()[pri:0, instance:forever.app.TS_10@64b31700]" started-at="2025-05-18T18:08:37 IST" name="beforeTestCase" finished-at="2025-05-18T18:08:38 IST" duration-ms="771" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestCase -->
+        <test-method signature="TC_020()[pri:0, instance:forever.app.TS_10@64b31700]" started-at="2025-05-18T18:08:38 IST" name="TC_020" finished-at="2025-05-18T18:08:39 IST" duration-ms="1085" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_020 -->
+        <test-method is-config="true" signature="afterTestCase()[pri:0, instance:forever.app.TS_10@64b31700]" started-at="2025-05-18T18:08:39 IST" name="afterTestCase" finished-at="2025-05-18T18:08:39 IST" duration-ms="124" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestCase -->
+      </class> <!-- forever.app.TS_10 -->
+      <class name="forever.app.TS_8">
+        <test-method is-config="true" signature="browseropen()[pri:0, instance:forever.app.TS_8@3b65e559]" started-at="2025-05-18T18:08:39 IST" name="browseropen" finished-at="2025-05-18T18:08:39 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browseropen -->
+        <test-method is-config="true" signature="beforeTestCase()[pri:0, instance:forever.app.TS_8@3b65e559]" started-at="2025-05-18T18:08:39 IST" name="beforeTestCase" finished-at="2025-05-18T18:08:40 IST" duration-ms="678" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestCase -->
+        <test-method signature="TC_011()[pri:0, instance:forever.app.TS_8@3b65e559]" started-at="2025-05-18T18:08:40 IST" name="TC_011" finished-at="2025-05-18T18:08:41 IST" duration-ms="1174" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_011 -->
+        <test-method is-config="true" signature="afterTestCase()[pri:0, instance:forever.app.TS_8@3b65e559]" started-at="2025-05-18T18:08:41 IST" name="afterTestCase" finished-at="2025-05-18T18:08:41 IST" duration-ms="127" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestCase -->
+        <test-method is-config="true" signature="beforeTestCase()[pri:0, instance:forever.app.TS_8@3b65e559]" started-at="2025-05-18T18:08:41 IST" name="beforeTestCase" finished-at="2025-05-18T18:08:42 IST" duration-ms="692" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestCase -->
+        <test-method signature="TC_012()[pri:0, instance:forever.app.TS_8@3b65e559]" started-at="2025-05-18T18:08:42 IST" name="TC_012" finished-at="2025-05-18T18:08:43 IST" duration-ms="1031" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_012 -->
+        <test-method is-config="true" signature="afterTestCase()[pri:0, instance:forever.app.TS_8@3b65e559]" started-at="2025-05-18T18:08:43 IST" name="afterTestCase" finished-at="2025-05-18T18:08:43 IST" duration-ms="142" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestCase -->
+      </class> <!-- forever.app.TS_8 -->
+      <class name="forever.app.TS_6">
+        <test-method is-config="true" signature="browseropen()[pri:0, instance:forever.app.TS_6@bae47a0]" started-at="2025-05-18T18:08:43 IST" name="browseropen" finished-at="2025-05-18T18:08:43 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browseropen -->
+        <test-method is-config="true" signature="beforeTestCase()[pri:0, instance:forever.app.TS_6@bae47a0]" started-at="2025-05-18T18:08:43 IST" name="beforeTestCase" finished-at="2025-05-18T18:08:44 IST" duration-ms="838" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestCase -->
+        <test-method signature="TC_015()[pri:0, instance:forever.app.TS_6@bae47a0]" started-at="2025-05-18T18:08:44 IST" name="TC_015" finished-at="2025-05-18T18:08:45 IST" duration-ms="1124" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_015 -->
+        <test-method is-config="true" signature="afterTestCase()[pri:0, instance:forever.app.TS_6@bae47a0]" started-at="2025-05-18T18:08:45 IST" name="afterTestCase" finished-at="2025-05-18T18:08:45 IST" duration-ms="157" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestCase -->
+        <test-method is-config="true" signature="beforeTestCase()[pri:0, instance:forever.app.TS_6@bae47a0]" started-at="2025-05-18T18:08:45 IST" name="beforeTestCase" finished-at="2025-05-18T18:08:46 IST" duration-ms="782" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestCase -->
+        <test-method signature="TC_016()[pri:0, instance:forever.app.TS_6@bae47a0]" started-at="2025-05-18T18:08:46 IST" name="TC_016" finished-at="2025-05-18T18:08:47 IST" duration-ms="1172" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_016 -->
+        <test-method is-config="true" signature="afterTestCase()[pri:0, instance:forever.app.TS_6@bae47a0]" started-at="2025-05-18T18:08:47 IST" name="afterTestCase" finished-at="2025-05-18T18:08:47 IST" duration-ms="145" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestCase -->
+      </class> <!-- forever.app.TS_6 -->
+      <class name="forever.app.TS_14">
+        <test-method is-config="true" signature="browseropen()[pri:0, instance:forever.app.TS_14@74a9c4b0]" started-at="2025-05-18T18:08:47 IST" name="browseropen" finished-at="2025-05-18T18:08:47 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browseropen -->
+        <test-method is-config="true" signature="beforeTestCase()[pri:0, instance:forever.app.TS_14@74a9c4b0]" started-at="2025-05-18T18:08:47 IST" name="beforeTestCase" finished-at="2025-05-18T18:08:48 IST" duration-ms="813" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestCase -->
+        <test-method signature="TC_030()[pri:0, instance:forever.app.TS_14@74a9c4b0]" started-at="2025-05-18T18:08:48 IST" name="TC_030" finished-at="2025-05-18T18:08:49 IST" duration-ms="1136" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_030 -->
+        <test-method is-config="true" signature="afterTestCase()[pri:0, instance:forever.app.TS_14@74a9c4b0]" started-at="2025-05-18T18:08:49 IST" name="afterTestCase" finished-at="2025-05-18T18:08:49 IST" duration-ms="141" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestCase -->
+        <test-method is-config="true" signature="beforeTestCase()[pri:0, instance:forever.app.TS_14@74a9c4b0]" started-at="2025-05-18T18:08:49 IST" name="beforeTestCase" finished-at="2025-05-18T18:08:50 IST" duration-ms="888" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestCase -->
+        <test-method signature="TC_031()[pri:0, instance:forever.app.TS_14@74a9c4b0]" started-at="2025-05-18T18:08:50 IST" name="TC_031" finished-at="2025-05-18T18:08:51 IST" duration-ms="1194" status="FAIL">
+          <exception class="org.openqa.selenium.InvalidSelectorException">
+            <message>
+              <![CDATA[invalid selector: Unable to locate an element with the xpath expression //*[@id=\"root\"]/div/div[1]/div[1]/div/img because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//*[@id=\"root\"]/div/div[1]/div[1]/div/img' is not a valid XPath expression.
+  (Session info: chrome=136.0.7103.113)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [43a720b83ca352b81ba6530a8fc0cf7b, findElement {using=xpath, value=//*[@id=\"root\"]/div/div[1]/div[1]/div/img}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.113, chrome: {chromedriverVersion: 135.0.7049.84 (6c019e560019..., userDataDir: C:\Users\jagaf\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58847}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58847/devtoo..., se:cdpVersion: 136.0.7103.113, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 43a720b83ca352b81ba6530a8fc0cf7b]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.InvalidSelectorException: invalid selector: Unable to locate an element with the xpath expression //*[@id=\"root\"]/div/div[1]/div[1]/div/img because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//*[@id=\"root\"]/div/div[1]/div[1]/div/img' is not a valid XPath expression.
+  (Session info: chrome=136.0.7103.113)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [43a720b83ca352b81ba6530a8fc0cf7b, findElement {using=xpath, value=//*[@id=\"root\"]/div/div[1]/div[1]/div/img}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.113, chrome: {chromedriverVersion: 135.0.7049.84 (6c019e560019..., userDataDir: C:\Users\jagaf\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58847}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58847/devtoo..., se:cdpVersion: 136.0.7103.113, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 43a720b83ca352b81ba6530a8fc0cf7b
+at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:501)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:485)
+at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:349)
+at forever.app.TS_14.TC_031(TS_14.java:59)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+at org.testng.TestRunner.privateRun(TestRunner.java:741)
+at org.testng.TestRunner.run(TestRunner.java:616)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.InvalidSelectorException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_031 -->
+        <test-method is-config="true" signature="afterTestCase()[pri:0, instance:forever.app.TS_14@74a9c4b0]" started-at="2025-05-18T18:08:51 IST" name="afterTestCase" finished-at="2025-05-18T18:08:51 IST" duration-ms="141" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestCase -->
+        <test-method is-config="true" signature="beforeTestCase()[pri:0, instance:forever.app.TS_14@74a9c4b0]" started-at="2025-05-18T18:08:51 IST" name="beforeTestCase" finished-at="2025-05-18T18:08:52 IST" duration-ms="844" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestCase -->
+        <test-method signature="TC_032()[pri:0, instance:forever.app.TS_14@74a9c4b0]" started-at="2025-05-18T18:08:52 IST" name="TC_032" finished-at="2025-05-18T18:09:03 IST" duration-ms="11266" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="root"]/div/div[1]/div[1]/div/div/div/p[1]"}
+  (Session info: chrome=136.0.7103.113)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a4b59ad22a46ee742da52592f91a2f5f, findElement {using=xpath, value=//*[@id="root"]/div/div[1]/div[1]/div/div/div/p[1]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.113, chrome: {chromedriverVersion: 135.0.7049.84 (6c019e560019..., userDataDir: C:\Users\jagaf\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58888}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58888/devtoo..., se:cdpVersion: 136.0.7103.113, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a4b59ad22a46ee742da52592f91a2f5f]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="root"]/div/div[1]/div[1]/div/div/div/p[1]"}
+  (Session info: chrome=136.0.7103.113)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a4b59ad22a46ee742da52592f91a2f5f, findElement {using=xpath, value=//*[@id="root"]/div/div[1]/div[1]/div/div/div/p[1]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.113, chrome: {chromedriverVersion: 135.0.7049.84 (6c019e560019..., userDataDir: C:\Users\jagaf\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58888}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58888/devtoo..., se:cdpVersion: 136.0.7103.113, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a4b59ad22a46ee742da52592f91a2f5f
+at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:501)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:485)
+at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:349)
+at forever.app.TS_14.TC_032(TS_14.java:82)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+at org.testng.TestRunner.privateRun(TestRunner.java:741)
+at org.testng.TestRunner.run(TestRunner.java:616)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_032 -->
+        <test-method is-config="true" signature="afterTestCase()[pri:0, instance:forever.app.TS_14@74a9c4b0]" started-at="2025-05-18T18:09:03 IST" name="afterTestCase" finished-at="2025-05-18T18:09:04 IST" duration-ms="195" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestCase -->
+        <test-method is-config="true" signature="beforeTestCase()[pri:0, instance:forever.app.TS_14@74a9c4b0]" started-at="2025-05-18T18:09:04 IST" name="beforeTestCase" finished-at="2025-05-18T18:09:04 IST" duration-ms="673" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestCase -->
+        <test-method signature="TC_033()[pri:0, instance:forever.app.TS_14@74a9c4b0]" started-at="2025-05-18T18:09:04 IST" name="TC_033" finished-at="2025-05-18T18:09:16 IST" duration-ms="11487" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="root"]/div/div[1]/div[1]/div/div/div/p[1]"}
+  (Session info: chrome=136.0.7103.113)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e0724953d946d2de09a733d2e7f29d36, findElement {using=xpath, value=//*[@id="root"]/div/div[1]/div[1]/div/div/div/p[1]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.113, chrome: {chromedriverVersion: 135.0.7049.84 (6c019e560019..., userDataDir: C:\Users\jagaf\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58940}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58940/devtoo..., se:cdpVersion: 136.0.7103.113, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e0724953d946d2de09a733d2e7f29d36]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="root"]/div/div[1]/div[1]/div/div/div/p[1]"}
+  (Session info: chrome=136.0.7103.113)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e0724953d946d2de09a733d2e7f29d36, findElement {using=xpath, value=//*[@id="root"]/div/div[1]/div[1]/div/div/div/p[1]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.113, chrome: {chromedriverVersion: 135.0.7049.84 (6c019e560019..., userDataDir: C:\Users\jagaf\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58940}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58940/devtoo..., se:cdpVersion: 136.0.7103.113, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e0724953d946d2de09a733d2e7f29d36
+at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:501)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:485)
+at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:349)
+at forever.app.TS_14.TC_033(TS_14.java:106)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+at org.testng.TestRunner.privateRun(TestRunner.java:741)
+at org.testng.TestRunner.run(TestRunner.java:616)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_033 -->
+        <test-method is-config="true" signature="afterTestCase()[pri:0, instance:forever.app.TS_14@74a9c4b0]" started-at="2025-05-18T18:09:16 IST" name="afterTestCase" finished-at="2025-05-18T18:09:16 IST" duration-ms="152" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestCase -->
+        <test-method is-config="true" signature="beforeTestCase()[pri:0, instance:forever.app.TS_14@74a9c4b0]" started-at="2025-05-18T18:09:16 IST" name="beforeTestCase" finished-at="2025-05-18T18:09:17 IST" duration-ms="671" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestCase -->
+        <test-method signature="TC_034()[pri:0, instance:forever.app.TS_14@74a9c4b0]" started-at="2025-05-18T18:09:17 IST" name="TC_034" finished-at="2025-05-18T18:09:28 IST" duration-ms="11096" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="root"]/div/div[1]/div[1]/div/div/div/p[2]"}
+  (Session info: chrome=136.0.7103.113)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [28826fae6a87d40db622b69480df6868, findElement {using=xpath, value=//*[@id="root"]/div/div[1]/div[1]/div/div/div/p[2]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.113, chrome: {chromedriverVersion: 135.0.7049.84 (6c019e560019..., userDataDir: C:\Users\jagaf\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59009}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59009/devtoo..., se:cdpVersion: 136.0.7103.113, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 28826fae6a87d40db622b69480df6868]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="root"]/div/div[1]/div[1]/div/div/div/p[2]"}
+  (Session info: chrome=136.0.7103.113)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [28826fae6a87d40db622b69480df6868, findElement {using=xpath, value=//*[@id="root"]/div/div[1]/div[1]/div/div/div/p[2]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.113, chrome: {chromedriverVersion: 135.0.7049.84 (6c019e560019..., userDataDir: C:\Users\jagaf\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59009}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59009/devtoo..., se:cdpVersion: 136.0.7103.113, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 28826fae6a87d40db622b69480df6868
+at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:501)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:485)
+at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:349)
+at forever.app.TS_14.TC_034(TS_14.java:140)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+at org.testng.TestRunner.privateRun(TestRunner.java:741)
+at org.testng.TestRunner.run(TestRunner.java:616)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_034 -->
+        <test-method is-config="true" signature="afterTestCase()[pri:0, instance:forever.app.TS_14@74a9c4b0]" started-at="2025-05-18T18:09:28 IST" name="afterTestCase" finished-at="2025-05-18T18:09:28 IST" duration-ms="163" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestCase -->
+        <test-method is-config="true" signature="beforeTestCase()[pri:0, instance:forever.app.TS_14@74a9c4b0]" started-at="2025-05-18T18:09:28 IST" name="beforeTestCase" finished-at="2025-05-18T18:09:28 IST" duration-ms="670" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestCase -->
+        <test-method signature="TC_035()[pri:0, instance:forever.app.TS_14@74a9c4b0]" started-at="2025-05-18T18:09:28 IST" name="TC_035" finished-at="2025-05-18T18:09:40 IST" duration-ms="11186" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="root"]/div/div[1]/div[1]/div/div/div/p[2]"}
+  (Session info: chrome=136.0.7103.113)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ae0324af4129bebeec4e59899d728ba7, findElement {using=xpath, value=//*[@id="root"]/div/div[1]/div[1]/div/div/div/p[2]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.113, chrome: {chromedriverVersion: 135.0.7049.84 (6c019e560019..., userDataDir: C:\Users\jagaf\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59070}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59070/devtoo..., se:cdpVersion: 136.0.7103.113, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ae0324af4129bebeec4e59899d728ba7]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="root"]/div/div[1]/div[1]/div/div/div/p[2]"}
+  (Session info: chrome=136.0.7103.113)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ae0324af4129bebeec4e59899d728ba7, findElement {using=xpath, value=//*[@id="root"]/div/div[1]/div[1]/div/div/div/p[2]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.113, chrome: {chromedriverVersion: 135.0.7049.84 (6c019e560019..., userDataDir: C:\Users\jagaf\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59070}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59070/devtoo..., se:cdpVersion: 136.0.7103.113, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ae0324af4129bebeec4e59899d728ba7
+at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:501)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:485)
+at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:349)
+at forever.app.TS_14.TC_035(TS_14.java:164)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+at org.testng.TestRunner.privateRun(TestRunner.java:741)
+at org.testng.TestRunner.run(TestRunner.java:616)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_035 -->
+        <test-method is-config="true" signature="afterTestCase()[pri:0, instance:forever.app.TS_14@74a9c4b0]" started-at="2025-05-18T18:09:40 IST" name="afterTestCase" finished-at="2025-05-18T18:09:40 IST" duration-ms="170" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestCase -->
+        <test-method is-config="true" signature="beforeTestCase()[pri:0, instance:forever.app.TS_14@74a9c4b0]" started-at="2025-05-18T18:09:40 IST" name="beforeTestCase" finished-at="2025-05-18T18:09:41 IST" duration-ms="723" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestCase -->
+        <test-method signature="TC_036()[pri:0, instance:forever.app.TS_14@74a9c4b0]" started-at="2025-05-18T18:09:41 IST" name="TC_036" finished-at="2025-05-18T18:09:52 IST" duration-ms="11325" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="root"]/div/div[1]/div[1]/div/div/div/p[3]"}
+  (Session info: chrome=136.0.7103.113)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c2c076c3bf7ade5c8627cf6e64a8c38a, findElement {using=xpath, value=//*[@id="root"]/div/div[1]/div[1]/div/div/div/p[3]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.113, chrome: {chromedriverVersion: 135.0.7049.84 (6c019e560019..., userDataDir: C:\Users\jagaf\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59133}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59133/devtoo..., se:cdpVersion: 136.0.7103.113, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c2c076c3bf7ade5c8627cf6e64a8c38a]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="root"]/div/div[1]/div[1]/div/div/div/p[3]"}
+  (Session info: chrome=136.0.7103.113)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c2c076c3bf7ade5c8627cf6e64a8c38a, findElement {using=xpath, value=//*[@id="root"]/div/div[1]/div[1]/div/div/div/p[3]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.113, chrome: {chromedriverVersion: 135.0.7049.84 (6c019e560019..., userDataDir: C:\Users\jagaf\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59133}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59133/devtoo..., se:cdpVersion: 136.0.7103.113, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c2c076c3bf7ade5c8627cf6e64a8c38a
+at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:501)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:485)
+at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:349)
+at forever.app.TS_14.TC_036(TS_14.java:198)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+at org.testng.TestRunner.privateRun(TestRunner.java:741)
+at org.testng.TestRunner.run(TestRunner.java:616)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_036 -->
+        <test-method is-config="true" signature="afterTestCase()[pri:0, instance:forever.app.TS_14@74a9c4b0]" started-at="2025-05-18T18:09:52 IST" name="afterTestCase" finished-at="2025-05-18T18:09:52 IST" duration-ms="148" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestCase -->
+        <test-method is-config="true" signature="beforeTestCase()[pri:0, instance:forever.app.TS_14@74a9c4b0]" started-at="2025-05-18T18:09:52 IST" name="beforeTestCase" finished-at="2025-05-18T18:09:53 IST" duration-ms="774" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestCase -->
+        <test-method signature="TC_037()[pri:0, instance:forever.app.TS_14@74a9c4b0]" started-at="2025-05-18T18:09:53 IST" name="TC_037" finished-at="2025-05-18T18:10:04 IST" duration-ms="11169" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="root"]/div/div[1]/div[1]/div/div/div/p[3]"}
+  (Session info: chrome=136.0.7103.113)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [176e15cb68ec567ca984bde27c0e6ce7, findElement {using=xpath, value=//*[@id="root"]/div/div[1]/div[1]/div/div/div/p[3]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.113, chrome: {chromedriverVersion: 135.0.7049.84 (6c019e560019..., userDataDir: C:\Users\jagaf\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59184}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59184/devtoo..., se:cdpVersion: 136.0.7103.113, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 176e15cb68ec567ca984bde27c0e6ce7]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="root"]/div/div[1]/div[1]/div/div/div/p[3]"}
+  (Session info: chrome=136.0.7103.113)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [176e15cb68ec567ca984bde27c0e6ce7, findElement {using=xpath, value=//*[@id="root"]/div/div[1]/div[1]/div/div/div/p[3]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.113, chrome: {chromedriverVersion: 135.0.7049.84 (6c019e560019..., userDataDir: C:\Users\jagaf\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59184}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59184/devtoo..., se:cdpVersion: 136.0.7103.113, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 176e15cb68ec567ca984bde27c0e6ce7
+at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:501)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:485)
+at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:349)
+at forever.app.TS_14.TC_037(TS_14.java:219)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+at org.testng.TestRunner.privateRun(TestRunner.java:741)
+at org.testng.TestRunner.run(TestRunner.java:616)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_037 -->
+        <test-method is-config="true" signature="afterTestCase()[pri:0, instance:forever.app.TS_14@74a9c4b0]" started-at="2025-05-18T18:10:04 IST" name="afterTestCase" finished-at="2025-05-18T18:10:04 IST" duration-ms="205" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestCase -->
+      </class> <!-- forever.app.TS_14 -->
+      <class name="forever.app.TS_22">
+        <test-method is-config="true" signature="browseropen()[pri:0, instance:forever.app.TS_22@85ec632]" started-at="2025-05-18T18:10:04 IST" name="browseropen" finished-at="2025-05-18T18:10:04 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browseropen -->
+        <test-method is-config="true" signature="beforeTestCase()[pri:0, instance:forever.app.TS_22@85ec632]" started-at="2025-05-18T18:10:04 IST" name="beforeTestCase" finished-at="2025-05-18T18:10:05 IST" duration-ms="687" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestCase -->
+        <test-method signature="TC_056()[pri:0, instance:forever.app.TS_22@85ec632]" started-at="2025-05-18T18:10:05 IST" name="TC_056" finished-at="2025-05-18T18:10:11 IST" duration-ms="5850" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_056 -->
+        <test-method is-config="true" signature="afterTestCase()[pri:0, instance:forever.app.TS_22@85ec632]" started-at="2025-05-18T18:10:11 IST" name="afterTestCase" finished-at="2025-05-18T18:10:11 IST" duration-ms="130" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestCase -->
+        <test-method is-config="true" signature="beforeTestCase()[pri:0, instance:forever.app.TS_22@85ec632]" started-at="2025-05-18T18:10:11 IST" name="beforeTestCase" finished-at="2025-05-18T18:10:12 IST" duration-ms="717" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestCase -->
+        <test-method signature="TC_057()[pri:0, instance:forever.app.TS_22@85ec632]" started-at="2025-05-18T18:10:12 IST" name="TC_057" finished-at="2025-05-18T18:10:14 IST" duration-ms="2017" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_057 -->
+        <test-method is-config="true" signature="afterTestCase()[pri:0, instance:forever.app.TS_22@85ec632]" started-at="2025-05-18T18:10:14 IST" name="afterTestCase" finished-at="2025-05-18T18:10:14 IST" duration-ms="109" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestCase -->
+        <test-method is-config="true" signature="beforeTestCase()[pri:0, instance:forever.app.TS_22@85ec632]" started-at="2025-05-18T18:10:14 IST" name="beforeTestCase" finished-at="2025-05-18T18:10:14 IST" duration-ms="776" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestCase -->
+        <test-method signature="TC_058()[pri:0, instance:forever.app.TS_22@85ec632]" started-at="2025-05-18T18:10:14 IST" name="TC_058" finished-at="2025-05-18T18:10:16 IST" duration-ms="1796" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_058 -->
+        <test-method is-config="true" signature="afterTestCase()[pri:0, instance:forever.app.TS_22@85ec632]" started-at="2025-05-18T18:10:16 IST" name="afterTestCase" finished-at="2025-05-18T18:10:16 IST" duration-ms="130" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestCase -->
+      </class> <!-- forever.app.TS_22 -->
+      <class name="forever.app.TS_12">
+        <test-method is-config="true" signature="browseropen()[pri:0, instance:forever.app.TS_12@1c05a54d]" started-at="2025-05-18T18:10:16 IST" name="browseropen" finished-at="2025-05-18T18:10:16 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browseropen -->
+        <test-method is-config="true" signature="beforeTestCase()[pri:0, instance:forever.app.TS_12@1c05a54d]" started-at="2025-05-18T18:10:16 IST" name="beforeTestCase" finished-at="2025-05-18T18:10:17 IST" duration-ms="700" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestCase -->
+        <test-method signature="TC_023()[pri:0, instance:forever.app.TS_12@1c05a54d]" started-at="2025-05-18T18:10:17 IST" name="TC_023" finished-at="2025-05-18T18:10:18 IST" duration-ms="1071" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_023 -->
+        <test-method is-config="true" signature="afterTestCase()[pri:0, instance:forever.app.TS_12@1c05a54d]" started-at="2025-05-18T18:10:18 IST" name="afterTestCase" finished-at="2025-05-18T18:10:18 IST" duration-ms="118" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestCase -->
+        <test-method is-config="true" signature="beforeTestCase()[pri:0, instance:forever.app.TS_12@1c05a54d]" started-at="2025-05-18T18:10:18 IST" name="beforeTestCase" finished-at="2025-05-18T18:10:19 IST" duration-ms="801" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestCase -->
+        <test-method signature="TC_024()[pri:0, instance:forever.app.TS_12@1c05a54d]" started-at="2025-05-18T18:10:19 IST" name="TC_024" finished-at="2025-05-18T18:10:20 IST" duration-ms="1233" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_024 -->
+        <test-method is-config="true" signature="afterTestCase()[pri:0, instance:forever.app.TS_12@1c05a54d]" started-at="2025-05-18T18:10:20 IST" name="afterTestCase" finished-at="2025-05-18T18:10:20 IST" duration-ms="127" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestCase -->
+        <test-method is-config="true" signature="beforeTestCase()[pri:0, instance:forever.app.TS_12@1c05a54d]" started-at="2025-05-18T18:10:20 IST" name="beforeTestCase" finished-at="2025-05-18T18:10:21 IST" duration-ms="744" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestCase -->
+        <test-method signature="TC_026()[pri:0, instance:forever.app.TS_12@1c05a54d]" started-at="2025-05-18T18:10:21 IST" name="TC_026" finished-at="2025-05-18T18:10:24 IST" duration-ms="3097" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_026 -->
+        <test-method is-config="true" signature="afterTestCase()[pri:0, instance:forever.app.TS_12@1c05a54d]" started-at="2025-05-18T18:10:24 IST" name="afterTestCase" finished-at="2025-05-18T18:10:24 IST" duration-ms="108" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestCase -->
+        <test-method is-config="true" signature="beforeTestCase()[pri:0, instance:forever.app.TS_12@1c05a54d]" started-at="2025-05-18T18:10:24 IST" name="beforeTestCase" finished-at="2025-05-18T18:10:25 IST" duration-ms="725" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestCase -->
+        <test-method signature="TC_027()[pri:0, instance:forever.app.TS_12@1c05a54d]" started-at="2025-05-18T18:10:25 IST" name="TC_027" finished-at="2025-05-18T18:10:28 IST" duration-ms="3218" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[search did not navigate correctly! expected [https://forever-frontend-gules.vercel.app/collection] but found [https://forever-frontend-gules.vercel.app/]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: search did not navigate correctly! expected [https://forever-frontend-gules.vercel.app/collection] but found [https://forever-frontend-gules.vercel.app/]
+at org.testng.Assert.fail(Assert.java:111)
+at org.testng.Assert.failNotEquals(Assert.java:1590)
+at org.testng.Assert.assertEqualsImpl(Assert.java:150)
+at org.testng.Assert.assertEquals(Assert.java:132)
+at org.testng.Assert.assertEquals(Assert.java:656)
+at forever.app.TS_12.TC_027(TS_12.java:124)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+at org.testng.TestRunner.privateRun(TestRunner.java:741)
+at org.testng.TestRunner.run(TestRunner.java:616)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_027 -->
+        <test-method is-config="true" signature="afterTestCase()[pri:0, instance:forever.app.TS_12@1c05a54d]" started-at="2025-05-18T18:10:28 IST" name="afterTestCase" finished-at="2025-05-18T18:10:28 IST" duration-ms="114" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestCase -->
+      </class> <!-- forever.app.TS_12 -->
+      <class name="forever.app.TS_18">
+        <test-method is-config="true" signature="browseropen()[pri:0, instance:forever.app.TS_18@65ef722a]" started-at="2025-05-18T18:10:28 IST" name="browseropen" finished-at="2025-05-18T18:10:28 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browseropen -->
+        <test-method is-config="true" signature="beforeTestCase()[pri:0, instance:forever.app.TS_18@65ef722a]" started-at="2025-05-18T18:10:28 IST" name="beforeTestCase" finished-at="2025-05-18T18:10:29 IST" duration-ms="724" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestCase -->
+        <test-method signature="TC_048()[pri:0, instance:forever.app.TS_18@65ef722a]" started-at="2025-05-18T18:10:29 IST" name="TC_048" finished-at="2025-05-18T18:10:32 IST" duration-ms="2332" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_048 -->
+        <test-method is-config="true" signature="afterTestCase()[pri:0, instance:forever.app.TS_18@65ef722a]" started-at="2025-05-18T18:10:32 IST" name="afterTestCase" finished-at="2025-05-18T18:10:32 IST" duration-ms="111" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestCase -->
+        <test-method is-config="true" signature="beforeTestCase()[pri:0, instance:forever.app.TS_18@65ef722a]" started-at="2025-05-18T18:10:32 IST" name="beforeTestCase" finished-at="2025-05-18T18:10:32 IST" duration-ms="720" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestCase -->
+        <test-method signature="TC_049()[pri:0, instance:forever.app.TS_18@65ef722a]" started-at="2025-05-18T18:10:32 IST" name="TC_049" finished-at="2025-05-18T18:10:34 IST" duration-ms="1938" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_049 -->
+        <test-method is-config="true" signature="afterTestCase()[pri:0, instance:forever.app.TS_18@65ef722a]" started-at="2025-05-18T18:10:34 IST" name="afterTestCase" finished-at="2025-05-18T18:10:34 IST" duration-ms="161" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestCase -->
+        <test-method is-config="true" signature="beforeTestCase()[pri:0, instance:forever.app.TS_18@65ef722a]" started-at="2025-05-18T18:10:34 IST" name="beforeTestCase" finished-at="2025-05-18T18:10:35 IST" duration-ms="886" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestCase -->
+        <test-method signature="TC_050()[pri:0, instance:forever.app.TS_18@65ef722a]" started-at="2025-05-18T18:10:35 IST" name="TC_050" finished-at="2025-05-18T18:10:37 IST" duration-ms="2041" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_050 -->
+        <test-method is-config="true" signature="afterTestCase()[pri:0, instance:forever.app.TS_18@65ef722a]" started-at="2025-05-18T18:10:37 IST" name="afterTestCase" finished-at="2025-05-18T18:10:38 IST" duration-ms="143" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestCase -->
+      </class> <!-- forever.app.TS_18 -->
+      <class name="forever.app.TS_16">
+        <test-method is-config="true" signature="browseropen()[pri:0, instance:forever.app.TS_16@5fd9b663]" started-at="2025-05-18T18:10:38 IST" name="browseropen" finished-at="2025-05-18T18:10:38 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browseropen -->
+        <test-method is-config="true" signature="beforeTestCase()[pri:0, instance:forever.app.TS_16@5fd9b663]" started-at="2025-05-18T18:10:38 IST" name="beforeTestCase" finished-at="2025-05-18T18:10:38 IST" duration-ms="766" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestCase -->
+        <test-method signature="TC_040()[pri:0, instance:forever.app.TS_16@5fd9b663]" started-at="2025-05-18T18:10:38 IST" name="TC_040" finished-at="2025-05-18T18:10:39 IST" duration-ms="1179" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_040 -->
+        <test-method is-config="true" signature="afterTestCase()[pri:0, instance:forever.app.TS_16@5fd9b663]" started-at="2025-05-18T18:10:39 IST" name="afterTestCase" finished-at="2025-05-18T18:10:40 IST" duration-ms="158" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestCase -->
+        <test-method is-config="true" signature="beforeTestCase()[pri:0, instance:forever.app.TS_16@5fd9b663]" started-at="2025-05-18T18:10:40 IST" name="beforeTestCase" finished-at="2025-05-18T18:10:40 IST" duration-ms="826" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestCase -->
+        <test-method signature="TC_041()[pri:0, instance:forever.app.TS_16@5fd9b663]" started-at="2025-05-18T18:10:40 IST" name="TC_041" finished-at="2025-05-18T18:10:42 IST" duration-ms="1084" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_041 -->
+        <test-method is-config="true" signature="afterTestCase()[pri:0, instance:forever.app.TS_16@5fd9b663]" started-at="2025-05-18T18:10:42 IST" name="afterTestCase" finished-at="2025-05-18T18:10:42 IST" duration-ms="140" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestCase -->
+        <test-method is-config="true" signature="beforeTestCase()[pri:0, instance:forever.app.TS_16@5fd9b663]" started-at="2025-05-18T18:10:42 IST" name="beforeTestCase" finished-at="2025-05-18T18:10:43 IST" duration-ms="885" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestCase -->
+        <test-method signature="TC_042()[pri:0, instance:forever.app.TS_16@5fd9b663]" started-at="2025-05-18T18:10:43 IST" name="TC_042" finished-at="2025-05-18T18:10:45 IST" duration-ms="2425" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_042 -->
+        <test-method is-config="true" signature="afterTestCase()[pri:0, instance:forever.app.TS_16@5fd9b663]" started-at="2025-05-18T18:10:45 IST" name="afterTestCase" finished-at="2025-05-18T18:10:45 IST" duration-ms="142" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestCase -->
+      </class> <!-- forever.app.TS_16 -->
+      <class name="forever.app.TS_002">
+        <test-method is-config="true" signature="browseropen()[pri:0, instance:forever.app.TS_002@214894fc]" started-at="2025-05-18T18:10:45 IST" name="browseropen" finished-at="2025-05-18T18:10:45 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browseropen -->
+        <test-method is-config="true" signature="beforeTestCase()[pri:0, instance:forever.app.TS_002@214894fc]" started-at="2025-05-18T18:10:45 IST" name="beforeTestCase" finished-at="2025-05-18T18:10:46 IST" duration-ms="715" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestCase -->
+        <test-method signature="TC_003()[pri:0, instance:forever.app.TS_002@214894fc]" started-at="2025-05-18T18:10:46 IST" name="TC_003" finished-at="2025-05-18T18:10:47 IST" duration-ms="1120" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_003 -->
+        <test-method is-config="true" signature="afterTestCase()[pri:0, instance:forever.app.TS_002@214894fc]" started-at="2025-05-18T18:10:47 IST" name="afterTestCase" finished-at="2025-05-18T18:10:47 IST" duration-ms="114" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestCase -->
+        <test-method is-config="true" signature="beforeTestCase()[pri:0, instance:forever.app.TS_002@214894fc]" started-at="2025-05-18T18:10:47 IST" name="beforeTestCase" finished-at="2025-05-18T18:10:48 IST" duration-ms="748" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestCase -->
+        <test-method signature="TC_004()[pri:0, instance:forever.app.TS_002@214894fc]" started-at="2025-05-18T18:10:48 IST" name="TC_004" finished-at="2025-05-18T18:10:49 IST" duration-ms="1021" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_004 -->
+        <test-method is-config="true" signature="afterTestCase()[pri:0, instance:forever.app.TS_002@214894fc]" started-at="2025-05-18T18:10:49 IST" name="afterTestCase" finished-at="2025-05-18T18:10:49 IST" duration-ms="107" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestCase -->
+      </class> <!-- forever.app.TS_002 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
